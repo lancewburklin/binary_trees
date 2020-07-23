@@ -4,7 +4,7 @@
  * binary_tree_is_full - Tests if a binary tree is full
  * @tree: The tree to test
  *
- * Return 1 if full, otherwise 0
+ * Return: 1 if full, otherwise 0
  */
 
 int binary_tree_is_full(const binary_tree_t *tree)
